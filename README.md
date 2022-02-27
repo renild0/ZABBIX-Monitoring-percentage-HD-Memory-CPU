@@ -14,5 +14,5 @@ Key vm.memory.size[pused]
 Key: perf_counter[\Processor Information(_Total)\% Processor Utility]
 
 Importe o template, vincule o Host e comece a monitorar!
-Obs: Print em anexo.
-![image](https://user-images.githubusercontent.com/88397673/155883797-e01cd135-e03a-4321-a66f-02181c22b81f.png)
+
+![image](https://user-images.githubusercontent.com/88397673/155883831-37937bc5-c3e4-420e-94bb-fb9b65850beb.png)
